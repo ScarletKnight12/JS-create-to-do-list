@@ -1,0 +1,41 @@
+body{
+	background-color: skyblue;
+	font-family: verdana;
+	font-size: 20px;
+}
+
+
+button{
+	border: 1px;
+	background: palevioletred;
+	color: white;
+	padding: 15px;
+	margin: 12px;
+	font-size: 13px;
+	width: 200px;
+	cursor: pointer;
+}
+
+input{
+	display: block;
+	padding: 12px;
+	margin: 10px;
+	border: 2px;
+	width: 550px;
+
+}
+
+
+.it:hover{
+	background-color: pink ;
+}
+
+#item{
+	margin: 20px;
+}
+
+.it{
+	padding: 7px;
+	font-size: 21px;
+
+}
